@@ -5,7 +5,7 @@ from glob import glob
 
 from setuptools import find_packages
 
-setup(name='testMethod',
+setup(name='Sum',
       version='1.0',
       description='Python Distribution Utilities',
       author='Geekshubs',
