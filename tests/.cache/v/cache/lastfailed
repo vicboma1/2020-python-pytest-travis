@@ -1,3 +1,4 @@
 {
-  "test_fib.py": true
+  "test_fib.py": true,
+   "test_sum.py": true
 }
