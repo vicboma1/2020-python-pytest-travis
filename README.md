@@ -1,6 +1,0 @@
-# 2020-python-pytest-travis
-
-<p align="center">
-    <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
-</p>
-
