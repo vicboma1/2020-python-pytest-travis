@@ -1,6 +1,6 @@
 import pytest
 
-from es.geekshubs.python import testMethod
+from source import testMethod
 
 def testMethod_sum_5_5_10():
 	assert(testMethod(5,5) == 10)
