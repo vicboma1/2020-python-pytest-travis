@@ -3,15 +3,5 @@ dist: trusty
 cache: false
 python:
  - "3.6"
-<<<<<<< HEAD
-
 install: pip install -e .
-
 script: pytest
-=======
-install: 
- - pip install -U pytest
- - pytest --fixtures
-script: 
- - pytest -q /src/pkg/*.py
->>>>>>> 6da9fd5141317b55651628fea4fd689863c3b9a6
